@@ -1,0 +1,2 @@
+﻿StaticA.obj : error LNK2019: unresolved external symbol "void __cdecl otherworldlyportal(void)" (?otherworldlyportal@@YAXXZ) referenced in function main
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W5\w5_preview\x64\Debug\StaticA.exe : fatal error LNK1120: 1 unresolved externals
