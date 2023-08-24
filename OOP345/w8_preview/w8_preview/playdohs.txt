@@ -1,0 +1,12 @@
+Playdoh Colour: Silver, Weight: 20
+Playdoh Colour: Cyan, Weight: 30
+Playdoh Colour: Pink, Weight: 10
+doh Colour: Blue, Weight: 23
+Playdoh Colour: Blue, Weight: 25
+Playdoh Colour: Red, Weight: 21
+Playdoh Colour: White, Weight: 90
+Playdoh Colour: Yellow, Weight: 40
+Playdoh Colour: Green, Weight: 50
+Playdoh Colour: Gray, Weight: 20
+Playdoh Colour: Brown, Weight: 30
+Playdoh Colour: Gold, Weight: 10
