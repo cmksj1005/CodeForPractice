@@ -1,0 +1,16 @@
+﻿  Animal.cpp
+  Bitwise.cpp
+  Cat.cpp
+  CatDog.cpp
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(34,33): error C2039: 'getName': is not a member of 'CatDog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(6,7): message : see declaration of 'CatDog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(35,35): error C2039: 'getName': is not a member of 'Cat'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\Cat.h(9,7): message : see declaration of 'Cat'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(35,42): error C2039: 'getName': is not a member of 'CatDog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(6,7): message : see declaration of 'CatDog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(36,35): error C2039: 'getName': is not a member of 'Dog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\Dog.h(9,7): message : see declaration of 'Dog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(36,42): error C2039: 'getName': is not a member of 'CatDog'
+C:\Users\cmksj\Desktop\Seneca College\Third Semester\OOP345\W12\w12_preview\w12_preview\CatDog.cpp(6,7): message : see declaration of 'CatDog'
+  Dog.cpp
+  Generating Code...
